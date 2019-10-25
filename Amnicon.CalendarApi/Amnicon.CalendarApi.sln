@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amnicon.CalendarApi", "Amnicon.CalendarApi\Amnicon.CalendarApi.csproj", "{1C68215C-5145-4990-92C0-915265E0C8A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amnicon.BusinessLogic", "Amnicon.BusinessLogic\Amnicon.BusinessLogic.csproj", "{5823266C-050A-4A33-A4A7-610D6D5F93C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amnicon.DataAccess", "Amnicon.DataAccess\Amnicon.DataAccess.csproj", "{20147E4B-8DA3-4B41-9252-72BD8284C220}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amnicon.Domain", "Amnicon.Domain\Amnicon.Domain.csproj", "{2194836C-1885-4B11-B879-7AAF62533EBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amnicon.BusinessLogic.Tests", "Amnicon.BusinessLogic.Tests\Amnicon.BusinessLogic.Tests.csproj", "{2AC629AA-00E6-450A-B5E3-75E3E51DE33E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C68215C-5145-4990-92C0-915265E0C8A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C68215C-5145-4990-92C0-915265E0C8A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C68215C-5145-4990-92C0-915265E0C8A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C68215C-5145-4990-92C0-915265E0C8A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5823266C-050A-4A33-A4A7-610D6D5F93C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5823266C-050A-4A33-A4A7-610D6D5F93C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5823266C-050A-4A33-A4A7-610D6D5F93C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5823266C-050A-4A33-A4A7-610D6D5F93C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20147E4B-8DA3-4B41-9252-72BD8284C220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20147E4B-8DA3-4B41-9252-72BD8284C220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20147E4B-8DA3-4B41-9252-72BD8284C220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20147E4B-8DA3-4B41-9252-72BD8284C220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2194836C-1885-4B11-B879-7AAF62533EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2194836C-1885-4B11-B879-7AAF62533EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2194836C-1885-4B11-B879-7AAF62533EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2194836C-1885-4B11-B879-7AAF62533EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AC629AA-00E6-450A-B5E3-75E3E51DE33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC629AA-00E6-450A-B5E3-75E3E51DE33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC629AA-00E6-450A-B5E3-75E3E51DE33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC629AA-00E6-450A-B5E3-75E3E51DE33E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {192409BD-15D7-4557-A843-E645C679C62C}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/iToolEHR
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Amnicon.BusinessLogic.Tests\\Amnicon.BusinessLogic.Tests.csproj
+		SccProjectName1 = Amnicon.BusinessLogic.Tests
+		SccLocalPath1 = Amnicon.BusinessLogic.Tests
+		SccProjectUniqueName2 = Amnicon.BusinessLogic\\Amnicon.BusinessLogic.csproj
+		SccProjectName2 = Amnicon.BusinessLogic
+		SccLocalPath2 = Amnicon.BusinessLogic
+		SccProjectUniqueName3 = Amnicon.CalendarApi\\Amnicon.CalendarApi.csproj
+		SccProjectName3 = Amnicon.CalendarApi
+		SccLocalPath3 = Amnicon.CalendarApi
+		SccProjectUniqueName4 = Amnicon.DataAccess\\Amnicon.DataAccess.csproj
+		SccProjectName4 = Amnicon.DataAccess
+		SccLocalPath4 = Amnicon.DataAccess
+		SccProjectUniqueName5 = Amnicon.Domain\\Amnicon.Domain.csproj
+		SccProjectName5 = Amnicon.Domain
+		SccLocalPath5 = Amnicon.Domain
+	EndGlobalSection
+EndGlobal
